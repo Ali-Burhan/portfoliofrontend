@@ -1,0 +1,14 @@
+.body1{
+    background: #00203fff;
+}
+
+.main{
+    height: 85vh;
+    width: 80%;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 5px #ccc;
+    border-radius: 5px;
+
+}
