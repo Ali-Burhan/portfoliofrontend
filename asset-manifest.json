@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfoliofrontendgh/static/css/main.e9d49bc3.css",
+    "main.js": "/portfoliofrontendgh/static/js/main.e83f0ad0.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/portfoliofrontendgh/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Ali.svg": "/portfoliofrontendgh/static/media/Ali.eecb32f33ea0e017b37231390a0e4e0a.svg",
+    "static/media/error.svg": "/portfoliofrontendgh/static/media/error.bdf1c60c297dc6528f56fe6a382dacdf.svg",
+    "static/media/coding.svg": "/portfoliofrontendgh/static/media/coding.8579d0e33b7d84c5c5304b08a9709a07.svg",
+    "static/media/study.svg": "/portfoliofrontendgh/static/media/study.33017a2c9621ebe5ef69ac70b8ab5951.svg",
+    "static/media/hireme.svg": "/portfoliofrontendgh/static/media/hireme.7b5091839a0a7507d159dfd2c418a72d.svg",
+    "static/media/mern.svg": "/portfoliofrontendgh/static/media/mern.1c7e060415166a7d424426003ad3f2b2.svg",
+    "static/media/machine.svg": "/portfoliofrontendgh/static/media/machine.7274e931dc39be49e1894ed815c9edc8.svg",
+    "static/media/amazon.svg": "/portfoliofrontendgh/static/media/amazon.b5055e56282bba2de480b7282277f3f9.svg",
+    "static/media/skills.svg": "/portfoliofrontendgh/static/media/skills.31175bb32c2cd6fbc9e80d65d400acaa.svg",
+    "static/media/forms.svg": "/portfoliofrontendgh/static/media/forms.626a9e927762176ccea83dfe861f8978.svg",
+    "static/media/address.svg": "/portfoliofrontendgh/static/media/address.9b2d71b06ed00c12ff41c79b3dca8fe2.svg",
+    "static/media/certificate.svg": "/portfoliofrontendgh/static/media/certificate.9f8c26853349112b981acb8f8d46dd74.svg",
+    "static/media/hirebackground.svg": "/portfoliofrontendgh/static/media/hirebackground.28f69e7b6c91ac1719e5fec146437aeb.svg",
+    "static/media/technologysvg.svg": "/portfoliofrontendgh/static/media/technologysvg.d919ff772ce67af0c19e.svg",
+    "static/media/educationsvg.svg": "/portfoliofrontendgh/static/media/educationsvg.070c38f85ec326715725.svg",
+    "static/media/bgsvgmain.svg": "/portfoliofrontendgh/static/media/bgsvgmain.e85000398f101cfeae35.svg",
+    "index.html": "/portfoliofrontendgh/index.html",
+    "main.e9d49bc3.css.map": "/portfoliofrontendgh/static/css/main.e9d49bc3.css.map",
+    "main.e83f0ad0.js.map": "/portfoliofrontendgh/static/js/main.e83f0ad0.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/portfoliofrontendgh/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d49bc3.css",
+    "static/js/main.e83f0ad0.js"
+  ]
+}
